@@ -16,5 +16,14 @@
       <description>Hello World </description>
     </item>
     
+    <item>
+      <title></title>
+      <link>https://zhiyongjzy.github.io/post/Markdown%E7%BC%96%E8%BE%91%E5%99%A8-Typora/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://zhiyongjzy.github.io/post/Markdown%E7%BC%96%E8%BE%91%E5%99%A8-Typora/</guid>
+      <description>Markdown编辑器 习惯使用Sublime Text，一直都是在Sublime Text中装上Markdown插件使用。听说Typora很好用，一试~~~~ Typora www.typora.io是一款支持实时预览的 Markdown 文本编辑器。也支持Linux平台，真的很不错。 代码块 作为一名程序员，先体验了</description>
+    </item>
+    
   </channel>
 </rss>
